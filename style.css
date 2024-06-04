@@ -1,9 +1,7 @@
 /* nav style */
 
 /* body{
-    not wanted space at the sides
-    margin: 0;
-    box-sizing: border-box;
+   overflow: hidden;
 } */
 .little a{
 color: black;
@@ -63,14 +61,7 @@ margin: 30px 0;
     border-top-right-radius: 40%;
     border-bottom-left-radius: 40%;
 }
-
-
-
-
-
-
-
-
+/* second */
 
 
 
@@ -107,6 +98,7 @@ margin: 30px 0;
   
 .slider-wrapper {
     position: relative;
+    overflow: hidden;
   }
   
   .slider-wrapper .slide-button {
